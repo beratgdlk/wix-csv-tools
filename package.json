@@ -1,0 +1,14 @@
+{
+  "name": "wix-csv-tools",
+  "version": "1.0.0",
+  "description": "A CLI generator toolset for Wix CSV processing",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.7"
+  }
+}
